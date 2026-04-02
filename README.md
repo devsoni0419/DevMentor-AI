@@ -27,7 +27,6 @@ DevMentor AI is a state-of-the-art, AI-powered learning platform designed to pro
 - **Google Gemini AI**: Powering the roadmap generation, quiz logic, and mentor assistance.
 
 ### Deployment & DevOps
-- **Vercel**: Unified deployment for both static frontend and serverless backend functions.
 - **Pushover API**: External notification service for study reminders.
 
 ## 📂 Project Structure
@@ -42,10 +41,8 @@ DevMentor AI is a state-of-the-art, AI-powered learning platform designed to pro
 │   ├── css/                # Custom stylesheets
 │   ├── js/                 # API services and UI logic
 │   └── index.html          # Main Application Dashboard
-├── api/                    # Vercel Serverless Functions
-├── scripts/                # Utility and Database setup scripts
-├── vercel.json             # Deployment configuration
-└── requirements.txt        # Python dependencies
+├── requirements.txt        # Python dependencies
+└── README.md               # Project Documentation
 ```
 
 ## 🚀 Getting Started
@@ -58,8 +55,8 @@ DevMentor AI is a state-of-the-art, AI-powered learning platform designed to pro
 ### 1. Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/devsoni0419/project1.git
-   cd project1
+   git clone https://github.com/devsoni0419/DevMentor-AI.git
+   cd DevMentor-AI
    ```
 2. Create and activate a virtual environment:
    ```bash
