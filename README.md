@@ -9,7 +9,7 @@ DevMentor AI is a state-of-the-art, AI-powered learning platform designed to pro
 - **🎯 Personalized Roadmaps**: Generate comprehensive, multi-day learning paths tailored to your specific career goals or skill interests.
 - **🧠 Adaptive Intelligence**: The platform monitors your progress and performance, identifying "Weak Topics" and suggesting roadmap adjustments in real-time.
 - **📝 Scenario-Based Quizzes**: Every task completion triggers an AI-generated quiz that focuses on practical application rather than rote memorization.
-- **💬 Dev Studio AI Assistant**: A dedicated conversational workspace for deep-diving into complex topics, debugging code, and resolving doubts.
+- **💬 Code Studio AI Assistant**: A dedicated conversational workspace for deep-diving into complex topics, debugging code, and resolving doubts.
 - **⏰ Smart Study Reminders**: Integrated Pushover notifications that nudge you at your scheduled study times to ensure consistent progress.
 - **📊 Real-time Dashboard**: Track your completion status, visualize learning gaps, and receive AI-driven recommendations.
 - **🔐 Secure Authentication**: Full user management system to persist your progress across sessions.
