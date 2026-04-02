@@ -2,7 +2,7 @@
 
 DevMentor AI is a state-of-the-art, AI-powered learning platform designed to provide a personalized, adaptive, and interactive educational experience. It goes beyond static courses by dynamically generating roadmaps, testing knowledge with scenario-based quizzes, and providing a 24/7 AI mentor.
 
-![DevMentor AI Dashboard](https://raw.githubusercontent.com/devsoni0419/project1/main/preview.png) *(Placeholder for dashboard screenshot)*
+
 
 ## ✨ Key Features
 
